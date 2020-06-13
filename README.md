@@ -1,5 +1,5 @@
 
-<h1 align="center">Object-Relational Mapping (ORM): E-commerce Back End 👋</h1>
+<h1 align="center">Object-Relational Mapping (ORM): E-Commerce Back End 👋</h1>
   
 <p align="center">
     <img src="https://img.shields.io/github/repo-size/jpd61/e-commerce-backend" />

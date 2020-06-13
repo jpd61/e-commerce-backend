@@ -14,7 +14,7 @@
     "url": "git@github.com:jpd61/e-commerce-backend.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "Joseph DeWoody",
   "license": "ISC",
   "devDependencies": {
     "nodemon": "^2.0.3"
