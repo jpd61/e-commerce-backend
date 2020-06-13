@@ -2,10 +2,10 @@
 <h1 align="center">Object-Relational Mapping (ORM): E-commerce Back End 👋</h1>
   
 <p align="center">
-    <img src="https://img.shields.io/github/repo-size/jpd61/employee-tracker" />
-    <img src="https://img.shields.io/github/languages/top/jpd61/employee-tracker"  />
-    <img src="https://img.shields.io/github/issues/jpd61/employee-tracker" />
-    <img src="https://img.shields.io/github/last-commit/jpd61/employee-tracker" >
+    <img src="https://img.shields.io/github/repo-size/jpd61/e-commerce-backend" />
+    <img src="https://img.shields.io/github/languages/top/jpd61/e-commerce-backend"  />
+    <img src="https://img.shields.io/github/issues/jpd61/e-commerce-backend" />
+    <img src="https://img.shields.io/github/last-commit/jpd61/e-commerce-backend" >
     <a href="https://github.com/jpd61"><img src="https://img.shields.io/github/followers/jpd61?style=social" target="_blank" /></a>
     <a href="https://twitter.com/jpdewoody">
         <img alt="Twitter: jpdewoody" src="https://img.shields.io/twitter/follow/jpdewoody.svg?style=social" target="_blank" />
